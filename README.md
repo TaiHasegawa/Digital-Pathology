@@ -1,2 +1,1 @@
-# Angle-aware Graph Neural Network for Digital Pathology
-Branch of Tai Hasegawa
+# Graph Neural Network Exploiting Edge Features to Detect Basement Membrane in Oral Mucosal Tissue
