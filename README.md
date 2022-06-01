@@ -7,6 +7,7 @@ A PyTorch implementation of the GNN architecture presented in "Graph Neural Netw
 
 ## Run Experiments
 Before running the codes, edit `config.json` to change the parameters and settings.
+
 mode: $\in$ {train, val, test} for training, validation and test
 
 Then run the code as follows:
